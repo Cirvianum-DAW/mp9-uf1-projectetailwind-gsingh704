@@ -4,11 +4,65 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tailwind CSS with Parcel</title>
-    <link rel="stylesheet" href="/index.4110e2cc.css">
+    <link href="/index.4d663569.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.8.1/flowbite.min.css" rel="stylesheet">
   </head>
   <body>
-    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-      Click me
-    </button>
-  <script src="/MP9_UF1_tailwind-project.59712999.js"></script></body>
+    <nav class="bg-gray-800 text-white flex justify-between items-center h-16 px-10">
+      <div>
+        <a href="#" class="text-2xl font-bold">Food Ninja</a>
+      </div>
+      <ul class="flex items-center gap-12 ml-auto">
+        <li class="hover:border-b-2 hover:border-blue-500">
+          <a href="#">Home</a>
+        </li>
+        <li class="hover:border-b-2 hover:border-blue-500">
+          <a href="#">All Dishes</a>
+        </li>
+        <li class="hover:border-b-2 hover:border-blue-500">
+          <a href="#">About</a>
+        </li>
+      </ul>
+    </nav>
+
+    <div id="gallery" class="relative w-1/2 mx-auto sm:w-full md:w-2/3 lg:w-1/2" data-carousel="slide">
+      <!-- Carousel wrapper -->
+      <div class="relative h-96 overflow-hidden md:h-96">
+        <!-- Item 1 -->
+        <div class="hidden duration-700 ease-in-out" data-carousel-item="">
+          <img src="/roti.cb86030e.jpg" class="absolute block max-w-full h-auto
+          -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 alt=" "="">
+        </div>
+        <!-- Item 2 -->
+        <div class="hidden duration-700 ease-in-out" data-carousel-item="active">
+          <img src="/jalebi.129ede7a.jpg" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
+        </div>
+        <!-- Item 3 -->
+        <div class="hidden duration-700 ease-in-out" data-carousel-item="">
+          <img src="/saag.d7003e92.jpg" class="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="">
+        </div>
+      </div>
+      <!-- Slider controls -->
+      <button type="button" class="absolute top-0 left-0 z-30 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none" data-carousel-prev="">
+        <span class="inline-flex items-center justify-center w-10 h-10 rounded-full bg-slate-500 dark:bg-gray-800/30 group-hover:bg-slate-950 dark:group-hover:bg-gray-800/60 group-focus:ring-4 group-focus:ring-white dark:group-focus:ring-gray-800/70 group-focus:outline-none">
+          <svg class="w-4 h-4 text-white dark:text-gray-800" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 6 10">
+            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 1 1 5l4 4"></path>
+          </svg>
+          <span class="sr-only">Previous</span>
+        </span>
+      </button>
+      <button type="button" class="absolute top-0 right-0 z-30 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none" data-carousel-next="">
+        <span class="inline-flex items-center justify-center w-10 h-10 rounded-full bg-slate-500 dark:bg-gray-800/30 group-hover:bg-slate-950 dark:group-hover:bg-gray-800/60 group-focus:ring-4 group-focus:ring-white dark:group-focus:ring-gray-800/70 group-focus:outline-none">
+          <svg class="w-4 h-4 text-white dark:text-gray-800" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 6 10">
+            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 9 4-4-4-4"></path>
+          </svg>
+          <span class="sr-only">Next</span>
+        </span>
+      </button>
+    </div>
+
+    <footer></footer>
+    <!-- flowbite -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.8.1/flowbite.min.js"></script>
+  <script src="/mp9-uf1-projectetailwind-gsingh704.59712999.js"></script></body>
 </html>
