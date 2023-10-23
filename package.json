@@ -25,6 +25,7 @@
     "tailwindcss": "^3.3.3"
   },
   "dependencies": {
-    "parcel": "^2.0.0-nightly.1404"
+    "parcel": "^2.0.0-nightly.1404",
+    "tw-elements": "^1.0.0"
   }
 }
