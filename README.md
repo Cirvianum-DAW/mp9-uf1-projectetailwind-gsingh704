@@ -5,7 +5,7 @@
 ## ABOUT
 
 ![Food Ninja Logo](./src/img/logo.png)
-
+[link to website](https://cirvianum-daw.github.io/mp9-uf1-projectetailwind-gsingh704/src/)
 I have created a webiste called Food Ninja. It is a website that allows users to view selected Indian recipes. The website is built using HTML, Tailwind CSS.
 
 ## WIREFRAME
