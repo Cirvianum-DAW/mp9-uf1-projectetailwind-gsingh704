@@ -13,7 +13,7 @@
     "html",
     "javascript"
   ],
-  "author": "El teu nom",
+  "author": "Gurjant Singh",
   "license": "ISC",
   "devDependencies": {
     "@parcel/transformer-postcss": "^2.10.0",

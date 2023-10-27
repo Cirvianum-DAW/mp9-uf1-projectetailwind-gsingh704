@@ -363,6 +363,10 @@ img, video {
   height: .75rem;
 }
 
+.h-36 {
+  height: 9rem;
+}
+
 .h-5 {
   height: 1.25rem;
 }
@@ -375,8 +379,48 @@ img, video {
   height: 2rem;
 }
 
+.h-96 {
+  height: 24rem;
+}
+
 .h-full {
   height: 100%;
+}
+
+.h-32 {
+  height: 8rem;
+}
+
+.h-28 {
+  height: 7rem;
+}
+
+.h-60 {
+  height: 15rem;
+}
+
+.h-44 {
+  height: 11rem;
+}
+
+.h-52 {
+  height: 13rem;
+}
+
+.h-48 {
+  height: 12rem;
+}
+
+.h-64 {
+  height: 16rem;
+}
+
+.h-72 {
+  height: 18rem;
+}
+
+.h-80 {
+  height: 20rem;
 }
 
 .w-10 {
@@ -393,6 +437,10 @@ img, video {
 
 .w-36 {
   width: 9rem;
+}
+
+.w-48 {
+  width: 12rem;
 }
 
 .w-5 {
@@ -475,6 +523,14 @@ img, video {
 
 .gap-3 {
   gap: .75rem;
+}
+
+.gap-2 {
+  gap: .5rem;
+}
+
+.gap-4 {
+  gap: 1rem;
 }
 
 .space-x-3 > :not([hidden]) ~ :not([hidden]) {
@@ -571,6 +627,10 @@ img, video {
 .bg-white {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
+.object-contain {
+  object-fit: contain;
 }
 
 .object-cover {

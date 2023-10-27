@@ -24,6 +24,8 @@ I have used Figma to create a wireframe for my website. It is a free, online UI 
 
 I have also used Figma to create a sitemap for my website. Site maps are a great way to visualize the structure of a website. They let me plan out the structure of my website and how the pages are connected to each other.
 
+## TOOLS
+
 ### Openverse.org
 
 Openverse is a valuable resource for discovering openly licensed and public domain images and audio. It searches through more than 700 million assets from open APIs and the Common Crawl dataset. I have incorporated Openverse to source media content for my website.
@@ -40,7 +42,7 @@ Flowbite is an open-source collection of UI components built with Tailwind CSS u
 
 I've used Bing Images Create to generate my website's logo. It utilizes the DALL·E model to generate images from text descriptions.
 
-## Figma
+### Figma
 
 I used Figma to create a wireframe and sitemap for my website. It is a free, online UI tool that allows us to create wireframes, mockups, and prototypes. It really helped me visualize my website and plan out the design.
 
@@ -68,7 +70,7 @@ I made several key design decisions in the development of my website:
 - [Openverse.org](https://openverse.org)
 - [Foodista (www.foodista.com)](https://www.foodista.com)
 - [Flowbite (Flowbite.com)](https://flowbite.com)
-- [Bing Images Create](https://www.bing.com/images/create)
+- [Bing Images Create](https://www.bing.com/create)
 - [Tailwind CSS](https://tailwindcss.com)
 - [Parcel](https://parceljs.org)
 - [Visual Studio Code](https://code.visualstudio.com)
