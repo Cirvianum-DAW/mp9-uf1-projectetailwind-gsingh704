@@ -1,11 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/c0A4d3Pn)
-
 # Food Ninja
 
 ## ABOUT
 
 ![Food Ninja Logo](./src/img/logo.png)
+
 [link to website](https://cirvianum-daw.github.io/mp9-uf1-projectetailwind-gsingh704/src/)
+
 I have created a webiste called Food Ninja. It is a website that allows users to view selected Indian recipes. The website is built using HTML, Tailwind CSS.
 
 ## WIREFRAME
@@ -20,7 +20,7 @@ I have used Figma to create a wireframe for my website. It is a free, online UI 
 
 ![Food Ninja Sitemap](./src/img/sitemap.png)
 
-[Figma Site Link](https://www.figma.com/file/ef5TdWTvTxxZr4pv9a5xhX/uf1_sitemap?type=whiteboard&node-id=0%3A1&t=A99DfCXGyUzCrkU0-1)
+[Figma Sitemap Link](https://www.figma.com/file/ef5TdWTvTxxZr4pv9a5xhX/uf1_sitemap?type=whiteboard&node-id=0%3A1&t=A99DfCXGyUzCrkU0-1)
 
 I have also used Figma to create a sitemap for my website. Site maps are a great way to visualize the structure of a website. They let me plan out the structure of my website and how the pages are connected to each other.
 
@@ -59,11 +59,16 @@ I used Figma to create a wireframe and sitemap for my website. It is a free, onl
 
 I made several key design decisions in the development of my website:
 
+![Responsive Design](./src/img/media/1.gif)
+
 - **Responsive Design:** I wanted my website to be accessible on all devices, so I made sure to implement responsive design. I used Tailwind CSS's responsive breakpoints to ensure that my website is responsive on all screen sizes.
+
 
 - **User-Friendly Interface:** Flowbite let us use ready-made components to build a user-friendly interface. They aare very easy to use and customize, and they look great.
 
 - **Logo Creation:** Using Bing Images Create allowed us to generate a unique and eye-catching logo for my website, aligning with my design goals.
+
+- **Color Scheme:** I chose a color scheme that is easy on the eyes and matches the theme of my website. I used Tailwind CSS's color palette to choose the colors. I used indigo as the primary color, and I used slate and black for the text.
 
 ## LINKS AND RESOURCES
 
