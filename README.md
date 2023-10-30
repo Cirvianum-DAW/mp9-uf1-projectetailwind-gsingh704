@@ -63,10 +63,13 @@ I made several key design decisions in the development of my website:
 
 - **Responsive Design:** I wanted my website to be accessible on all devices, so I made sure to implement responsive design. I used Tailwind CSS's responsive breakpoints to ensure that my website is responsive on all screen sizes.
 
+    I have used flex with flex wrap in most of my pages to make them responsive. While showing dishes by category, I have used grid to make it responsive. As I thought that it ws easier.
 
-- **User-Friendly Interface:** Flowbite let us use ready-made components to build a user-friendly interface. They aare very easy to use and customize, and they look great.
+    I have also different text sizes for different screen sizes. As on desktop, the text size is bigger than on mobile.
 
-- **Logo Creation:** Using Bing Images Create allowed us to generate a unique and eye-catching logo for my website, aligning with my design goals.
+- **Image Carousel:** I used Flowbite's image carousel component to display images of dishes on my website. I chose this component because it is easy to use and it looks great. It is shown in the home page. Flowbite make it interactive and easy to use.
+
+- **Logo Creation:** Using Bing Images Create allowed us to generate a unique and eye-catching logo for my website. It uses Dall-E to generate images from text descriptions. I used the text "A restaurant called Food Ninja" to generate the logo.
 
 - **Color Scheme:** I chose a color scheme that is easy on the eyes and matches the theme of my website. I used Tailwind CSS's color palette to choose the colors. I used indigo as the primary color, and I used slate and black for the text.
 
